@@ -1,4 +1,4 @@
-package moura.renan.data.service
+package moura.renan.remote.service
 
 sealed class ApiType {
     data class TwitterAPI(

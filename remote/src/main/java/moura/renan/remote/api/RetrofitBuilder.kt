@@ -1,8 +1,8 @@
-package moura.renan.data
+package moura.renan.remote.api
 
 import com.google.gson.Gson
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
-import moura.renan.data.service.ApiType
+import moura.renan.remote.service.ApiType
 import okhttp3.Credentials
 import okhttp3.OkHttpClient
 import okhttp3.Request

@@ -1,4 +1,4 @@
-package moura.renan.data.service.google
+package moura.renan.remote.service.google
 
 import retrofit2.http.POST
 

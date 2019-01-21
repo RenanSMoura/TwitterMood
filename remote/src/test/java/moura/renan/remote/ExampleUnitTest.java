@@ -1,4 +1,4 @@
-package moura.renan.data;
+package moura.renan.remote;
 
 import org.junit.Test;
 
